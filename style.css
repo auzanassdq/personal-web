@@ -1,0 +1,53 @@
+/* .paragraph-1 {
+  background-color: darkkhaki;
+}
+
+#line-baru {
+  border: 1px solid black;
+}
+
+p {
+  background-color: cornflowerblue;
+}
+
+#hobbies li {
+  background-color: darkseagreen;
+} */
+
+body {
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+.photo {
+  background-color: rgb(206, 206, 206);
+  padding: 40px 0;
+  /* text-align: center; */
+}
+
+.photo img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.about p {
+  text-align: justify;
+  margin: 0 10%;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-skill {
+  width: 100px;
+  height: 150px;
+  border: 1px solid black;
+  margin: 0 10px;
+  /* display: inline-block; */
+}
